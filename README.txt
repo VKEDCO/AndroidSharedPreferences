@@ -1,0 +1,1 @@
+SharedPreferences on Android.
